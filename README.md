@@ -36,5 +36,3 @@ I enjoy exploring 🧠 new tech trends, experimenting with 🧪 Raspberry Pi pro
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rajatkpp&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
