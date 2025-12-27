@@ -1,5 +1,18 @@
 # 💫 About Me:
-Currently Working On:<br>I'm currently focused on deploying containerized applications on Kubernetes clusters, developing workflows and automation using Jenkins and CI/CD setups, and troubleshooting production environment issues. I also have experience in scripting and developing Django backend applications integrated into enterprise solutions.<br><br>Looking to Collaborate On:<br>I’m interested in collaborating on projects that involve cloud infrastructure, DevOps practices, and automation. I’m particularly keen on exploring advanced AWS and OCI integrations and open-source tools.<br><br>Looking for Help With:<br>I’m currently looking to deepen my knowledge of AWS, especially in areas like Lambda, S3, and networking. I’m also interested in learning more about security best practices in cloud environments.<br><br>Ask Me About:<br>Feel free to ask me about Kubernetes, Jenkins pipelines, containerization, and cloud infrastructure. I’m always happy to share insights and exchange knowledge!<br><br>Fun Fact About Me:<br>I enjoy exploring new tech trends, experimenting with Raspberry Pi projects, and I have a soft spot for momos!
+🚀 Currently Working On:<br>
+I’m currently focused on deploying 🐳 containerized applications on ☸️ Kubernetes clusters, developing ⚙️ workflows and automation using Jenkins and 🔁 CI/CD setups, and troubleshooting 🔍 production environment issues. I also have experience in 🧩 scripting and developing Django backend applications integrated into 🏢 enterprise solutions.<br><br>
+
+🤝 Looking to Collaborate On:<br>
+I’m interested in collaborating on projects that involve ☁️ cloud infrastructure, 🚀 DevOps practices, and 🤖 automation. I’m particularly keen on exploring advanced 🟧 AWS and 🌐 OCI integrations, along with contributing to 🛠️ open-source tools.<br><br>
+
+📚 Looking for Help With:<br>
+I’m currently looking to deepen my knowledge of 🟧 AWS, especially in areas like ⚡ Lambda, 🗂️ S3, and 🌐 networking. I’m also interested in learning more about 🔐 security best practices in cloud environments.<br><br>
+
+💬 Ask Me About:<br>
+Feel free to ask me about ☸️ Kubernetes, 🔁 Jenkins pipelines, 📦 containerization, and ☁️ cloud infrastructure. I’m always happy to share insights and exchange knowledge! 😊<br><br>
+
+🎉 Fun Fact About Me:<br>
+I enjoy exploring 🧠 new tech trends, experimenting with 🧪 Raspberry Pi projects, and I have a serious soft spot for 🥟 momos 😋❤️
 
 
 ## 🌐 Socials:
